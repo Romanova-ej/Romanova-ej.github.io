@@ -32,6 +32,8 @@ gem "duktape"
 # Fixes `jekyll serve` in ruby 3
 gem "webrick"
 
+# gem "minima"
+
 group :jekyll_plugins do
   gem "jekyll-default-layout"
   gem "jekyll-feed"
