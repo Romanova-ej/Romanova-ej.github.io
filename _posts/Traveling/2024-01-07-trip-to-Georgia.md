@@ -3,6 +3,7 @@ layout: post
 title: Back to Georgia
 description: >
   Some memories connected to the trip to Georgia in 2016.
+image: ../images/Georgia/P1060128.jpg
 sitemap: false
 hide_last_modified: true
 ---
@@ -16,128 +17,117 @@ For Alex it was the first abroud trip at all except for mooving to Russia from K
 
 Mainly we were located in the small resort town Kobuleti, Adjara. It was a popular vacation spot for locals. Maybe now it is different, but I do not remember ever running into russians there (which is always a good thing, bless me). The region had been flooded recently so a lot of tourists from the country had not arrived and the town was not crowded.
 
+![Embankment](../images/Georgia/P1060094.jpg){: width="800" loading="lazy"}
+
+![Kobuleti](../images/Georgia/P1060098.jpg){: width="800" loading="lazy"}
+
+
+![Sunset](../images/Georgia/P1060110.jpg){: width="800" loading="lazy"}  
+
 The sea was right under our nose, but it's hard to call the beach perfect. There were huge pieces of rocks here and there which could cause you a lot of pain with stormy waves as accomplices. It was quite funny though to swim in it, but of course not completely safe.
 
-One of the main problems of life named "Where are we going to eat" arose immediately. Alex voted for a caffe that looked shabby but was packed with natives. I has a prejdice against it but agreed. So we visited the place which still was not beated even if I tried a lot of georgian food since. It has a big con though. The jukebox. I still shudder when remembering those sounds.
-As we very soon had known, the favorite song of all times for natives was "Vladimirsky central" (Владимирский централ). And they didn't skimp on the volume at all.
-So the place was named after the song but we still wasn't resistant enough to its food so we had put up with their tastes for music. 
-It wasn't unusual for them to listen something like that, actually. Later, when traveling by minibuses, we discover that it is indeed quite common to listen for russian shanson in public places.
-Nevertherless, food was marvelous! As well as the prices. On our first visit we take three hachapury, as they were so cheap that they just could not be big. Well... of course they were huge and we was not able to swallow all of it. 
-The place, as I have mentioned, was always crowded. It leaded to such events like natives joining our table and having a chat with Alex (women, it seemed, did not really counted). It was a bit awkward, but truly atmospheric. 
-The cheapest and the tastyest place.
+![Water2](../images/Georgia/P1060339.jpg){: width="800" loading="lazy"}
 
-At one of the days we took minibus to the waterfall called ''. Because of the recent flood it had become immense. I believe that in that condition it looks much more impressive so we were kind of lucky. On the other hand, the river crossing nearby lost its beauty due to the stream. 
+One of the main problems in life called "Where are we going to eat?" arose immediately. Alex voted for a cafe that looked shabby but was packed with locals. I had a prejudice against it but finnaly agreed. This is how we discovered a place the food of which is still unbeaten, even though I have tried a lot of Georgian food since then. Although there was a big flaw. The jukebox. I still shudder remembering those sounds.
+As we very soon had learnt, the favorite song of all times among locals was "Vladimirsky central" (Владимирский централ). Visitors kept asking the automat to play it on and on and they did not like when the volume was at any measure low.
+We had named the place after the song but we still wasn't resistant enough to its food so we put up with their tastes for music. 
+It wasn't unusual for georgians to listen to something like that, actually. Later, when traveling by minibuses, we discover that it is indeed quite common to listen for russian shanson in public places.
+Nevertherless, food was marvelous! As well as the prices. On our first visit we take three hachapury, as they were so cheap that they just could not be big. Well... of course they were huge and we was not able to won that battle.
+The place, as I have mentioned, was always crowded. It leaded to such events like old men joining our table and having a chat with Alex (women, it seemed, did not really counted). It was a bit awkward, but truly atmospheric. Yeah, the longest paragraph of this article is about a cafe :D.
+
+![chkmeruli](../images/Georgia/P1060313.jpg){: width="800" loading="lazy"}
+
+One day we took a minibus to the waterfall called 'Makhuntseti'. Because of the recent flood it had become immense. I believe that in that condition it looks much more impressive so we were kind of lucky. On the other hand, the river crossing nearby may have lost some of its beauty due to the stream. 
+
+![mountains](../images/Georgia/P1060352.jpg){: width="800" loading="lazy"}
+
+![waterfall](../images/Georgia/P1060357_2.jpg){: width="800" loading="lazy"}
+
 
 On that little trip we also visited Queen Tamara's Bridge. As you see, it is quite tiny in the means of width. And without any handrail. 
+
+![Bridge](../images/Georgia/P1060413.jpg){: width="800" loading="lazy"}
+
+![Bridge2](../images/Georgia/P1060417.jpg){: width="800" loading="lazy"}
+
 On that bridge happend one of the most fearfull moments of my life. When I was standing on a bridge, somebody frightened the cow on the other end and it run. Run right into me on that damned thin bridge. I manadged to step aside and not fall into the wild waters but the moment the cow was passing me by I am not to forget.
 
-After that occurence I kept a grudge on all cows. Look at its evil eyes!
+After that occurence I've kept a grudge on all cows. Look at its evil eyes!
 
-The path home witch we took partialy busless was rather picturesque.
+![Cow](../images/Georgia/P1060421.jpg){: width="800" loading="lazy"}
 
+The path home witch we took partialy busless was rather picturesque. Water is everywhere. 
 
+![road](../images/Georgia/P1060490_2.jpg){: width="800" loading="lazy"}
 
-Cum sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+The same could be said about cows, unfortunately...
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+![road](../images/Georgia/P1060486_2.jpg){: width="800" loading="lazy"}
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Here you can imagine a picturesque crossing of rivers. 
 
-## Inline HTML elements
+![rivers](../images/Georgia/P1060534.jpg){: width="800" loading="lazy"}
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Train it! Imagine!
 
-- **To bold text**, use `**To bold text**`.
-- *To italicize text*, use `*To italicize text*`.
-- Abbreviations, like HTML should be defined like this `*[HTML]: HyperText Markup Language`.
-- Citations, like <cite>&mdash; Mark otto</cite>, should use `<cite>`.
-- ~~Deleted~~ text should use `~~deleted~~` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+![rivers](../images/Georgia/P1060543.jpg){: width="800" loading="lazy"}
 
-Most of these elements are styled by browsers with few modifications on our part.
+We took a peek at local wine cellar, but it was a tipical tourist place, although the nature is impressive nevertheless.
 
-## Heading 2
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+![mountains](../images/Georgia/P1060443.jpg){: width="800" loading="lazy"}
 
-### Heading 3
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
+![mountains](../images/Georgia/P1060438.jpg){: width="800" loading="lazy"}
 
-#### Heading 4
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
+On the other day we went to botanic garder of Batumi that is also located near to the sea. Again we used minibuses with its usual chanson accompaniment. 
+Out of the window: 
 
-##### Heading 5
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
+![mountains](../images/Georgia/P1060126.jpg){: width="800" loading="lazy"}
 
-###### Heading 6
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor.
+![mountains](../images/Georgia/P1060170.jpg){: width="800" loading="lazy"}
 
-## Code
+![mountains](../images/Georgia/P1060128.jpg){: width="800" loading="lazy"}
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+Botanic garder was a really nice place but now I dare say I have seen much more impressive garderns. Then, though, we enjoied it a lot. The day was awfully hot so it was a pleasure to hide ourselves in the shade under the ancient trees. 
 
-~~~js
-// Example can be run directly in your JavaScript console
+![garden_sea](../images/Georgia/P1060178.jpg){: width="800" loading="lazy"}
 
-// Create a function that takes two arguments and returns the sum of those
-// arguments
-var adder = new Function("a", "b", "return a + b");
+![garden](../images/Georgia/P1060221.jpg){: width="800" loading="lazy"}
 
-// Call the function
-adder(2, 6);
-// > 8
-~~~
+![garden](../images/Georgia/P1060240.jpg){: width="800" loading="lazy"}
 
-## Lists
+![garden](../images/Georgia/P1060241.jpg){: width="800" loading="lazy"}
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+Snake felt itself very organic in the Japanese garden. It did not convince me though. The rest of the wanderings were tinged with fear.
 
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
+![garden](../images/Georgia/P1060273.jpg){: width="800" loading="lazy"}
 
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
+Sometimes trees seem to be impossible. Thought about it a lot in Vietnam (see more recent post about Vietnam).
 
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
+![garden](../images/Georgia/P1060263.jpg){: width="800" loading="lazy"}
 
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+![garden](../images/Georgia/P1060226.jpg){: width="800" loading="lazy"}
 
-HyperText Markup Language (HTML)
-: The language used to describe and define the content of a Web page
+![garden](../images/Georgia/P1060230.jpg){: width="800" loading="lazy"}
 
-Cascading Style Sheets (CSS)
-: Used to describe the appearance of Web content
+![garden](../images/Georgia/P1060309.jpg){: width="800" loading="lazy"}
 
-JavaScript (JS)
-: The programming language used to build advanced Web sites and applications
+Batumi town itself did not impress me at all though. It was all made up and unnatural, like a big barby's house. And I dare say I indicated a lack of taste in architecturers who took part in its building. Walking there still was nice but no more than that. I cannot really understand what people see in towns like that one.
 
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+![Batumi](../images/Georgia/P1060634_2.jpg){: width="800" loading="lazy"}
 
-## Images
+![Batumi](../images/Georgia/P1060637_2.jpg){: width="800" loading="lazy"}
 
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
+![Batumi](../images/Georgia/P1060663.jpg){: width="800" loading="lazy"}
 
-![800x400](https://via.placeholder.com/800x400 "Large example image")
+![Batumi](../images/Georgia/P1060693_2.jpg){: width="800" loading="lazy"}
 
-![400x200](https://via.placeholder.com/400x200 "Medium example image")
+One thing I appreciated in Batumi was that monument. It was moving:  male and female were approaching each other, passing through and moving away. For us it was a very actual plot since in autumn we were to part again to study in different cities.
 
-![200x200](https://via.placeholder.com/200x200 "Small example image")
+![Batumi](../images/Georgia/P1060675.jpg){: width="800" loading="lazy"}
 
-## Tables
+The unsets there were perfect
 
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+![Batumi](../images/Georgia/P1060588.jpg){: width="800" loading="lazy"}
 
-| Name     | Upvotes   | Downvotes |
-|:---------|:----------|:----------|
-| Alice    |        10 |        11 |
-| Bob      |         4 |         3 |
-| Charlie  |         7 |         9 |
-|==========|===========|===========|
-|Totals    |        21 |        23 |
+Afterwards we moved to Tbilisi, but I'll tell about it another time.
 
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-*[HTML]: HyperText Markup Language
-*[CSS]: Cascading Style Sheets
-*[JS]: JavaScript
