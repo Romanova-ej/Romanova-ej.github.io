@@ -1,3 +1,8 @@
+
+/post_drifts
+/images/Georgia/out
+_site
+
 # Ignore docs files
 _gh_pages
 _site
@@ -50,6 +55,8 @@ _zip
 /stats.json
 /dist
 /build
+/post_drifts
 
 /assets/js/*hydejack-*
 /_sass/*/__*__/*
+Заметки.txt
