@@ -6,6 +6,7 @@ description: >
 image: ../images/Georgia/P1060128.jpg
 sitemap: false
 hide_last_modified: true
+tags: [Traveling, English]
 ---
 
 Trip to Georgia took place in 2016 when I was a young to-be-bachelor (2nd year of SpSU). It was my first trip abroad without parents and with a boyfriend to-be-husband. 
