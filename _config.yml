@@ -49,7 +49,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             Traveling
-    url:               /Traveling/
+    url:               /traveling/
   - title:             Documentation
     url:               /docs/
   - title:             About

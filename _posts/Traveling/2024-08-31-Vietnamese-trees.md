@@ -5,7 +5,7 @@ description: >
   
 image: /images/Vietnam/Trees/IMG_3788.jpg
 related_posts:
-  - /2024-08-31-One-tree-in-Hoian/
+  - /traveling/vietnam/2024-08-31-One-tree-in-Hoian/
 sitemap: false
 hide_last_modified: true
 categories: [Traveling,Vietnam]
