@@ -3,9 +3,10 @@ layout: post
 title: The story of how one tree stopped the war and saved the day
 description: >
   
-image: ../images/Vietnam/trees/IMG_3641.jpg
+image: /images/Vietnam/trees/IMG_3641.jpg
 sitemap: false
 hide_last_modified: true
+categories: [Traveling,Vietnam]
 tags: [Vietnam, Traveling]
 ---
 
@@ -34,7 +35,7 @@ tags: [Vietnam, Traveling]
 
 "Ну посмотри, ну какое дерево, ну просто прекрасное дерево, посмотри, замечательно!"
 
-![Hoian tree](../images/Vietnam/Trees/IMG_3641.jpg){: width="800" loading="lazy"}
+![Hoian tree](/images/Vietnam/Trees/IMG_3641.jpg){: width="800" loading="lazy"}
 
 Леша, конечно, надо мной подсмеивался, иронизируя на тему моих восторженных воплей при виде чуть ли не каждого второго дерева во Вьетнаме. Однако, дерево действительно было совершенно потрясающее. И, верите ли, только я его рассмотрела --- все мое жуткое настроение улетучилось, бой прекратился, блюстители платья в позором ретировались, блюстители недостойности раннего отхода тоже сдались, осознав свою ограниченность. Осталась только я, Леша рядом, дерево через дорогу и желание гулять по этому прекрасному городу. 
 
@@ -43,5 +44,5 @@ tags: [Vietnam, Traveling]
 P.S.: Ну, и еще огромное количество туристов, которые к вечеру начали выползать из отелей. В "ощущается как 43" разумные люди, видимо только так и делают.
 
 
-![Hoian tree](../images/Vietnam/Trees/IMG_3640_44_2.jpg){: width="800" loading="lazy"}
+![Hoian tree](/images/Vietnam/Trees/IMG_3640_44_2.jpg){: width="800" loading="lazy"}
 

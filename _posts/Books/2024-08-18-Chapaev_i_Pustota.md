@@ -3,7 +3,7 @@ layout: post
 title: Чапаев и пустота. 
 description: >
   Вторая попытка чтения Пелевина.
-image: ../images/Books/131804_original.jpg
+image: /images/Books/131804_original.jpg
 sitemap: false
 hide_last_modified: true
 tags: [Books]

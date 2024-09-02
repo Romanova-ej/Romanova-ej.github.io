@@ -12,11 +12,11 @@ Beth:
 
   # This photo will be used in the about section
   picture:
-    path:            ../images/About/IMG_0156_128.jpg
+    path:            /images/About/IMG_0156_128.jpg
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            ../images/About/IMG_0156_128.jpg
-      2x:            ../images/About/IMG_0156_256.jpg
+      1x:            /images/About/IMG_0156_128.jpg
+      2x:            /images/About/IMG_0156_256.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
