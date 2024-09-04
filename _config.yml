@@ -50,8 +50,6 @@ author:
 menu:
   - title:             Traveling
     url:               /traveling/
-  - title:             Documentation
-    url:               /docs/
   - title:             About
     url:               /about/
 
