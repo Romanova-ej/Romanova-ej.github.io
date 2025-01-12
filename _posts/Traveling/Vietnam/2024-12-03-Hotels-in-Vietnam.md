@@ -2,7 +2,8 @@
 layout: post
 title: How to choose a hotel in Vietnam and not go mad (Никак)
 description: >
-  
+  What we had to face when choosing hotels in Vietnam
+
 image: /images/Vietnam/Hotels/Hotels_Vietnam16-9.jpg
 sitemap: false
 hide_last_modified: true
@@ -69,23 +70,16 @@ Until the very end I had two bookings, but from unhappened one I received a lett
 
 Our final hotel (homestay as the most of them) was one of the kind with a door (it's a miracle!). The shower though still was not to have any borders. But I did not see the room with it at all on booking.com. 
 
-Our hotel was very decent. It was located a little deeper into the neighborhood, away from the noisy main road. It was kept in the local style and led by the very warm family. 
+Our hotel was quite decent. It was located a little deeper into the neighborhood, away from the noisy main road. It was kept in the local style and led by the very warm family. 
 
 ![An Banh Hotel](/images/Vietnam/Hotels/anbanh.jpg){: width="400" loading="lazy"}
 ![An Banh Hotel](/images/Vietnam/Hotels/anbanhgen.jpg){: width="400" loading="lazy"}
 
 Here we had gecko for a pet. I was petrified by the husband's new best friend but he (the husband) assured me that "it'll behave". I still did awake in the middle of the night out of the dream about it touching me though. Alex was not convincing enough.  
 
-<!-- <video width="400" preload="auto" muted controls>
-    <source src="/images/Vietnam/Hotels/Video/3gecco.mp4" type="video/mp4"/>
-</video> -->
-
 <iframe src="https://drive.google.com/file/d/1_6ct2S0BsD51uGxmPNuADFZx0mmgChbz/preview" width="400" height="280" allow="autoplay"></iframe>
 
-<!-- <iframe src="https://drive.google.com/file/d/1FzQqCMLUWSko-6pnUXRJTVwPXcxXHEIO/preview" width="400" height="280" allow="autoplay"></iframe> -->
-
-
-Here you cold not hear a sound from the other guests or the street but... damn those birds! They were singing the exactly same tune all the time, it was terribly loud and started at 4 in the morning.
+Inside the room you could not hear a sound from the other guests or the street but... damn those birds! They were singing the exactly same tune all the time, it was terribly loud and started at 4 in the morning. When I hear it in our videos, the tic starts.
 Well... there was also a lot of geckos outside that sometimes chatted with our roommate. If you don't know "what does the gecko say" I advice you to google it. Unforgettable. 
 Not the most welcome thing in the night. But afterall... it's fun to recall it now. Alex was charming when asked our hostess the status of the gecko (he really thought that it was a pet). Better not to show him this post. 
 
@@ -120,6 +114,7 @@ I saw a couple of decent-looking apartments at a good price but they were someho
 The gem of it was the silence it provided despite the location. There was no windows to the street (just to the inside stairs), but maybe it was the only way to block all this crazy sound of Hanoi. It was located in the middle of the Old Quarter, so it was quite a noise outside, but choose this location, because it was most convenient for the early departure to Halong. 
 
 ![Hanoi Hotel](/images/Vietnam/Hotels/498790005.jpg){: width="400" loading="lazy"}
+![Hanoi Hotel](/images/Vietnam/Hotels/498697113.jpg){: width="400" loading="lazy"}
 
 But of course even here we could not help but encounter some troubles. 
 When arriving, we had to go through a narrow corridor and climb up a stairs. But on the staircase a huuuuge cockroach was sitting, baring his enormous teeth (well, I'm a bit exaggerating). 

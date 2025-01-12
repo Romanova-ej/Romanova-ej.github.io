@@ -2,7 +2,7 @@
 layout: post
 title: The wonders of vietnamese trees
 description: >
-  
+  Несколько примеров удивительных деревьев Центрального и Северного Вьетнама
 image: /images/Vietnam/Trees/IMG_3788.jpg
 related_posts:
   - /traveling/vietnam/2024-08-31-One-tree-in-Hoian/

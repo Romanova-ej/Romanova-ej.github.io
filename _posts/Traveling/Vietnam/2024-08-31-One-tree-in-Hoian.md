@@ -2,7 +2,7 @@
 layout: post
 title: The story of how one tree stopped the war and saved the day
 description: >
-  
+  История об особенном дереве в Хойане и о моих закидонах
 image: /images/Vietnam/Trees/IMG_3641.jpg
 sitemap: false
 hide_last_modified: true
