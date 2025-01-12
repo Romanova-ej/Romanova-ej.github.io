@@ -5,6 +5,10 @@ description: >
   What we had to face when choosing hotels in Vietnam
 
 image: /images/Vietnam/Hotels/Hotels_Vietnam16-9.jpg
+related_posts:
+  - /traveling/2024-08-30-Vietnamese-trees/
+  - /traveling/2024-08-31-One-tree-in-Hoian/
+
 sitemap: false
 hide_last_modified: true
 categories: [Traveling]

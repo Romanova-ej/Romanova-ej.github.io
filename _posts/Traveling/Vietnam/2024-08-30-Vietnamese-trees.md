@@ -5,7 +5,7 @@ description: >
   Несколько примеров удивительных деревьев Центрального и Северного Вьетнама
 image: /images/Vietnam/Trees/IMG_3788.jpg
 related_posts:
-  - /traveling/vietnam/2024-08-31-One-tree-in-Hoian/
+  - /traveling/2024-08-31-One-tree-in-Hoian/
 sitemap: false
 hide_last_modified: true
 categories: [Traveling]
